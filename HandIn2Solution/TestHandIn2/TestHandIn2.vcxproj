@@ -71,7 +71,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\T420s\Desktop\school\sem3\cal1\projects\StringUtils\StringUtils;C:\Users\T420s\Desktop\school\sem3\cpputest-master\include;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\T420s\Source\Repos\HandIn2\HandIn2Solution\HandIn2;C:\Users\T420s\Desktop\school\sem3\cpputest-master\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
@@ -145,6 +145,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\HandIn2\stringUtils.c" />
     <ClCompile Include="TestMain.cpp" />
     <ClCompile Include="TestStringUtils.cpp" />
   </ItemGroup>

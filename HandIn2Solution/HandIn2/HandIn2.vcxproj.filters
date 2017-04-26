@@ -18,6 +18,9 @@
     <ClCompile Include="player.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stringUtils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="player.h">

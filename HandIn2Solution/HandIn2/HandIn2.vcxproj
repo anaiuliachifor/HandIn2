@@ -143,6 +143,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="player.c" />
+    <ClCompile Include="stringUtils.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="player.h" />
