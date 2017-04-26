@@ -18,9 +18,6 @@
     <ClCompile Include="TestMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\StringUtils\stringUtils.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="TestStringUtils.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
